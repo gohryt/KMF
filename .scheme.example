@@ -1,0 +1,12 @@
+{
+	"Services": {
+		"users": {
+			"URLs": [
+				{"Host": "172.26.8.178", "Port": 80}
+			],
+			"Methods": {
+				"/add": ["user"]
+			}
+		}
+	}
+}
